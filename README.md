@@ -21,5 +21,5 @@ ou
 	    npm run serve
 
 
-![](ex.JPG)
+![](src/assets/ex.JPG)
 
