@@ -1,24 +1,24 @@
-# todo
+## To-do List Vue.js
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Project setup
-```
-npm install
-```
+> Estudos iniciais com Vue.js criando uma lista de afazeres
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+*Foi-se utilizado apenas Vue.js e Spectre.CSS*
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Como rodar
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Caso já tenha o node instalado mas não o vue, utilize com o npm:
+
+    npm uninstall vue-cli -g  
+ou
+
+    yarn global remove vue-cli
+    
+  clone esse projeto e rode o comando:
+  
+
+	    npm run serve
+
+
+![](ex.jJPG)
